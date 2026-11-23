@@ -1,0 +1,43 @@
+# --- Compiled artifacts ---
+a.out
+*.out
+*.o
+*.obj
+*.exe
+*.so
+*.dylib
+*.a
+*.i64
+*.idb
+*.dSYM/
+*.su
+*.gcno
+*.gcda
+*.gcov
+
+# --- IDE / editor metadata ---
+.idea/
+.vscode/
+*.iml
+*.sublime-workspace
+*~
+*.swp
+
+# --- Debugger / crash artifacts ---
+.gdb_history
+.core
+core
+core.*
+
+# --- OS / archive clutter ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# --- Local build output ---
+build/
+dist/
