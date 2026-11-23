@@ -45,7 +45,7 @@ This repository is a personal **archive of solved C exercises** from the 1337 / 
 
 | Level | Exercises | Topics |
 |---|---:|---|
-| [`LEVEL  0`](1337/EXAMS/LEVEL%200) | 10 | First programs, arguments, simple loops and strings |
+| [`LEVEL  0`](1337/EXAMS/LEVEL%20%200) | 10 | First programs, arguments, simple loops and strings |
 | [`LEVEL 1`](1337/EXAMS/LEVEL%201) | 12 | String/array manipulations, ROT-13, word operations |
 | [`LEVEL 2`](1337/EXAMS/LEVEL%202) | 17 | Bit operations, string search, numeric helpers, `main` arguments |
 
